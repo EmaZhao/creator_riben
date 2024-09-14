@@ -1,0 +1,24 @@
+
+module.exports = {
+    UPDATE_GET_LIST: "UPDATE_GET_LIST" //更新vip礼包领取列表
+
+    , UPDATE_CHARGE_LIST: "UPDATE_CHARGE_LIST" //充值列表
+
+    , THREE_RECHARGE: "THREE_RECHARGE" //三倍充值
+    //累冲信息
+    , ACC_RECHARGE_INFO: "ACC_RECHARGE_INFO"
+    // 每日礼包
+    , DAILY_GIFT_INFO: "DAILY_GIFT_INFO"
+    // VIP特权礼包
+    , PRIVILEGE_INFO: "PRIVILEGE_INFO"
+
+    //月卡领取
+    , SUPRE_CARD_GET: "SUPRE_CARD_GET"
+
+    , UPDATA_ITEM_REDPOINT: "UPDATA_ITEM_REDPOINT"
+
+    //QQ余额
+    , UPDATA_QQ_BALANCE: "UPDATA_QQ_BALANCE"
+    //赠送vip
+    , GIVE_VIP_UPDATE: "GIVE_VIP_UPDATE"
+}

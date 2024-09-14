@@ -1,0 +1,49 @@
+module.exports = {
+    //请求基础信息返回
+    UPDATA_BASE_DATA: "UPDATA_BASE_DATA",
+
+    //请求首通奖励返回
+    UPDATA_FIRST_DATA: "UPDATA_FIRST_DATA",
+
+    //派遣伙伴信息
+    UPDATA_SENDPARTNER_DATA: "UPDATA_SENDPARTNER_DATA",
+
+    //可雇佣伙伴信息
+    UPDATA_HIREPARNER_DATA: "UPDATA_HIREPARNER_DATA",
+
+    //已雇佣
+    UPDATA_HASHIREPARNER_DATA: "UPDATA_HASHIREPARNER_DATA",
+
+    //首通红点事件
+    UPDATA_REDPOINT_FIRST_DATA: "UPDATA_REDPOINT_FIRST_DATA",
+
+    //获取所有日常奖励结算红点事件
+    UPDATA_REDPOINT_REWARD_DATA: "UPDATA_REDPOINT_REWARD_DATA",
+
+    //支援他人红点减
+    UPDATA_REDPOINT_SENDPARTNER_DATA: "UPDATA_REDPOINT_SENDPARTNER_DATA",
+
+
+    //无尽试炼战斗界面
+    UPDATA_ENDLESSBATTLE_DATA: "UPDATA_ENDLESSBATTLE_DATA",
+
+    //无尽试炼buff界面
+    UPDATA_BUFF_DATA: "UPDATA_BUFF_DATA",
+
+    //无尽试炼派遣
+    UPDATA_SENDPARTNER_SUCESS_DATA: "UPDATA_SENDPARTNER_SUCESS_DATA",
+
+    // 无尽试炼在试炼之门的红点
+    UPDATA_ESECSICE_ENDLESS_REDPOINT:"UPDATA_ESECSICE_ENDLESS_REDPOINT",
+
+    // 伤害排行榜
+    type: {
+        rank: 1,
+        reward: 2
+    },
+
+    helptype: {
+        friend: 1,
+        me: 2
+    }
+}
